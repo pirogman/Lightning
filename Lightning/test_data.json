@@ -1,0 +1,212 @@
+[
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 1666628033.0358,
+        "eventId": "F6C61059-C372-4390-A6DE-ACBB55D9F6CE"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6628020.1433,
+        "eventId": "7D389934-4E25-4321-B772-C777DFFD24C3"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6628025.9313,
+        "eventId": "AB44053D-C697-46D0-8920-01671062A370"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6628129.8358,
+        "eventId": "23459681-C2EA-43E8-A33D-9983B5F6A0BD"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6628121.7552,
+        "eventId": "FF42BACF-5400-433D-A60F-3C491BC121EB"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6628124.9164,
+        "eventId": "3B628BCA-5117-43E1-9DB3-71BBE7C44DF5"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 66628327.3284,
+        "eventId": "78D5CB4A-4695-4AF3-8DF8-848B858B2F0E"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6628324.4806,
+        "eventId": "64E6F9E9-E19E-4A20-90F3-566A9CD68A32"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6628325.0,
+        "eventId": "011672FB-EB71-42EC-944D-0D208FECB15D"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6628625.991,
+        "eventId": "C1F3A448-1090-42DC-99F6-6822BE159D70"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 1666628632.3015,
+        "eventId": "AAC5B034-3AC0-459E-A98C-C9BEDAAD290B"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6628628.8657,
+        "eventId": "F020913A-707E-43F2-B843-BB40895DA982"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6628918.3015,
+        "eventId": "ADA04687-E82A-4A1F-94BF-40FD46A50A40"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 1666628931.4925,
+        "eventId": "E9CAF920-F81C-424D-BC14-A7DC6740BA85"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6628925.3343,
+        "eventId": "58AFAC12-AD3F-488C-BC55-220AF48F1252"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6629210.9224,
+        "eventId": "AAAC9320-8967-4775-839B-79CA24308BE4"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6629211.809,
+        "eventId": "4F3C7445-70A4-4074-867E-23EBB504C2EF"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6629208.9821,
+        "eventId": "C3250229-EE08-4C5F-9BEF-20CE5D7D797B"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6629524.3343,
+        "eventId": "D83F363B-53CF-4A1E-9DBC-5A3A9830E32E"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6629512.3045,
+        "eventId": "A69D8817-FB81-412D-9620-352F413F52D1"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6629517.1851,
+        "eventId": "F7E6836B-EEC6-4E4F-BE07-A6F495F14923"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6629810.7403,
+        "eventId": "6DE431EE-8D5E-4B36-9B98-EA2C68388321"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6629814.1582,
+        "eventId": "F6577F42-9B1F-40F7-ACB9-2D0A296824F2"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6629810.1552,
+        "eventId": "414A69EE-69D3-4B16-9A70-EAA1B4D3766A"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 6630114.0896,
+        "eventId": "15234F95-C4BE-4E22-95A6-5F307FA8977B"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 6630128.3194,
+        "eventId": "797D2C17-468D-406C-8BB0-68808A75945E"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 6630121.6597,
+        "eventId": "28D912D3-2D17-4D97-9D57-392FC9C9968A"
+    },
+    {
+        "sensorId": "FCEB201F-B7D8-45EE-A88A-E14E0F2AF11C",
+        "lat": 46.6154,
+        "lon": 33.0192,
+        "timestamp": 1666630433.3254,
+        "eventId": "575911D1-8875-4416-A870-0532282A1812"
+    },
+    {
+        "sensorId": "B376716F-40B4-42F7-95A3-FF0CB2CFC4FD",
+        "lat": 46.5712,
+        "lon": 33.0144,
+        "timestamp": 1666630438.6179,
+        "eventId": "6E3D990B-5C86-4B42-8CFC-52204D102643"
+    },
+    {
+        "sensorId": "DD88C6AE-A593-4359-8E36-D3B7A671F00C",
+        "lat": 46.59153,
+        "lon": 33.01556,
+        "timestamp": 1666630435.7612,
+        "eventId": "C944A757-4814-44E6-9F45-36EBBC650D31"
+    }
+]
